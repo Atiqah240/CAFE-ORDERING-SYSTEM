@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Payment
+comment1.params=qty\ tP\ c\ eW\ d
+comment1.target=Payment(int,\ double,\ double,\ double,\ double)
+comment2.params=c\ eW\ d
+comment2.target=void\ setPayment(double,\ double,\ double)
+comment3.params=
+comment3.target=double\ getCash()
+comment4.params=
+comment4.target=double\ getEWallet()
+comment5.params=
+comment5.target=double\ getDebit()
+comment6.params=price
+comment6.target=double\ calcTotal(double)
+comment7.params=opt\ price
+comment7.target=void\ display(char,\ double)
+numComments=8
